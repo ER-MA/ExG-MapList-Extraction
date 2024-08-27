@@ -1,0 +1,3002 @@
+[
+    {
+        "Name": "bhop_badges_mini",
+        "CnName": "",
+        "Difficulty": "极难",
+        "CooldownMinute": "57.3时",
+        "CooldownEnd": "无",
+        "Steam": 3207322527
+    },
+    {
+        "Name": "bhop_cetz_full",
+        "CnName": "",
+        "Difficulty": "绝境",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-27 23:53:14",
+        "Steam": 3303317887
+    },
+    {
+        "Name": "bhop_fur",
+        "CnName": "",
+        "Difficulty": "极难",
+        "CooldownMinute": "60.0时",
+        "CooldownEnd": "无",
+        "Steam": 3072307280
+    },
+    {
+        "Name": "bhop_kz_deadcore",
+        "CnName": "[史诗]死核",
+        "Difficulty": "史诗",
+        "CooldownMinute": "60.0时",
+        "CooldownEnd": "2024-08-29 02:24:24",
+        "Steam": 3079982220
+    },
+    {
+        "Name": "bhop_ragnarok",
+        "CnName": "",
+        "Difficulty": "极难",
+        "CooldownMinute": "24.0时",
+        "CooldownEnd": "无",
+        "Steam": 3077153735
+    },
+    {
+        "Name": "blueandorange",
+        "CnName": "[合作闯关]蓝与橙",
+        "Difficulty": "困难",
+        "CooldownMinute": "16.0时",
+        "CooldownEnd": "2024-08-28 09:58:52",
+        "Steam": 3302671213
+    },
+    {
+        "Name": "cfjdc",
+        "CnName": "喜爱福生化角斗场",
+        "Difficulty": "简单",
+        "CooldownMinute": "6.0时",
+        "CooldownEnd": "2024-08-27 22:54:21",
+        "Steam": 3231889583
+    },
+    {
+        "Name": "cr_crazyhouse",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "无",
+        "Steam": 3144371570
+    },
+    {
+        "Name": "cr_devisland_p1_v1",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3076483842
+    },
+    {
+        "Name": "cs_assault_1337_old",
+        "CnName": "仓库1337",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3120611382
+    },
+    {
+        "Name": "de_nuke_classic",
+        "CnName": "木亥子危只因",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3120612276
+    },
+    {
+        "Name": "frypemap_cv7",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3198011377
+    },
+    {
+        "Name": "jurasic_life",
+        "CnName": "侏罗纪生存记",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3297935164
+    },
+    {
+        "Name": "kz_checkmate",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "57.3时",
+        "CooldownEnd": "2024-08-27 23:43:27",
+        "Steam": 3070194623
+    },
+    {
+        "Name": "kz_colors",
+        "CnName": "",
+        "Difficulty": "极难",
+        "CooldownMinute": "60.0时",
+        "CooldownEnd": "无",
+        "Steam": 3160120310
+    },
+    {
+        "Name": "mg_100traps",
+        "CnName": "[高难]100关",
+        "Difficulty": "极难",
+        "CooldownMinute": "48.0时",
+        "CooldownEnd": "无",
+        "Steam": 3198747928
+    },
+    {
+        "Name": "mg_acrophobia_run_v2",
+        "CnName": "[中等]大峡谷 ~",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 03:57:00",
+        "Steam": 3070463620
+    },
+    {
+        "Name": "mg_airmap_run",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3267641400
+    },
+    {
+        "Name": "mg_alley_course_reskin",
+        "CnName": "[简单]小巷",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 03:35:32",
+        "Steam": 3070622716
+    },
+    {
+        "Name": "mg_balistic_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3164692527
+    },
+    {
+        "Name": "mg_beach_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3260285519
+    },
+    {
+        "Name": "mg_blanc",
+        "CnName": "[绝境]空白!",
+        "Difficulty": "绝境",
+        "CooldownMinute": "4.0天",
+        "CooldownEnd": "2024-08-29 08:34:53",
+        "Steam": 3273716863
+    },
+    {
+        "Name": "mg_bob4",
+        "CnName": "[困难]bob4",
+        "Difficulty": "困难",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "无",
+        "Steam": 3214686410
+    },
+    {
+        "Name": "mg_bobiii_reborn",
+        "CnName": "",
+        "Difficulty": "史诗",
+        "CooldownMinute": "60.0时",
+        "CooldownEnd": "2024-08-30 04:36:01",
+        "Steam": 3297768125
+    },
+    {
+        "Name": "mg_bobiii_reborn_2016",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 02:11:42",
+        "Steam": 3282513988
+    },
+    {
+        "Name": "mg_chebure",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3073069061
+    },
+    {
+        "Name": "mg_circle_course_v3",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070434475
+    },
+    {
+        "Name": "mg_colors_cube",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3239388553
+    },
+    {
+        "Name": "mg_cyber_course_v6",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3242822672
+    },
+    {
+        "Name": "mg_cypher_cs2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3200157057
+    },
+    {
+        "Name": "mg_dicore_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3216834237
+    },
+    {
+        "Name": "mg_dobaba_t",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "无",
+        "Steam": 3293887607
+    },
+    {
+        "Name": "mg_draw_course_v3",
+        "CnName": "[简单]涂鸦",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070444679
+    },
+    {
+        "Name": "mg_ecliptic_v4",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3249980603
+    },
+    {
+        "Name": "mg_escape_prison_cs2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3246242621
+    },
+    {
+        "Name": "mg_glave_course_v2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070445185
+    },
+    {
+        "Name": "mg_gumobstacle_t",
+        "CnName": "[梦魇]GUM!",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 18:40:52",
+        "Steam": 3282542601
+    },
+    {
+        "Name": "mg_iceq_course_remake_dwz",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3230812148
+    },
+    {
+        "Name": "mg_kegs_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3206261435
+    },
+    {
+        "Name": "mg_koaes_t",
+        "CnName": "[史诗]科依思!",
+        "Difficulty": "史诗",
+        "CooldownMinute": "60.0时",
+        "CooldownEnd": "2024-08-29 09:42:17",
+        "Steam": 3307003397
+    },
+    {
+        "Name": "mg_last_light_v3",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070458707
+    },
+    {
+        "Name": "mg_lego_course_2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3202752274
+    },
+    {
+        "Name": "mg_lego_course_v2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070448153
+    },
+    {
+        "Name": "mg_mario_galaxy",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3131572633
+    },
+    {
+        "Name": "mg_metal_course_2_v2",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070464801
+    },
+    {
+        "Name": "mg_metal_course_v3",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070464208
+    },
+    {
+        "Name": "mg_metro_course_v2",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070463151
+    },
+    {
+        "Name": "mg_minecraft_adventure",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3166464513
+    },
+    {
+        "Name": "mg_minecraft_aphixed",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3115180427
+    },
+    {
+        "Name": "mg_minecraft_jb",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070896876
+    },
+    {
+        "Name": "mg_modern_dev",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3270293699
+    },
+    {
+        "Name": "mg_nebo2_course",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 03:37:25",
+        "Steam": 3207575900
+    },
+    {
+        "Name": "mg_nimafa_2_final",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "无",
+        "Steam": 3218453973
+    },
+    {
+        "Name": "mg_nothing",
+        "CnName": "[中等]妄想症!",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3259001928
+    },
+    {
+        "Name": "mg_nothing_hard",
+        "CnName": "[梦魇]妄想症! 困难版",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "无",
+        "Steam": 3263027853
+    },
+    {
+        "Name": "mg_nxr_course_v2",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 02:33:06",
+        "Steam": 3070455191
+    },
+    {
+        "Name": "mg_office_course_v3",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070459211
+    },
+    {
+        "Name": "mg_qube_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 02:54:32",
+        "Steam": 3129272566
+    },
+    {
+        "Name": "mg_reverse",
+        "CnName": "[史诗]翻转!",
+        "Difficulty": "史诗",
+        "CooldownMinute": "60.0时",
+        "CooldownEnd": "2024-08-29 16:17:16",
+        "Steam": 3268022349
+    },
+    {
+        "Name": "mg_ruin_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 03:16:01",
+        "Steam": 3165539530
+    },
+    {
+        "Name": "mg_savetheisland_course",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3239475921
+    },
+    {
+        "Name": "mg_saw_128",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-27 23:57:26",
+        "Steam": 3173691991
+    },
+    {
+        "Name": "mg_school_course_v3",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070441621
+    },
+    {
+        "Name": "mg_simpsons_course_v2",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070447697
+    },
+    {
+        "Name": "mg_sketchy_course",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3248014004
+    },
+    {
+        "Name": "mg_sky_islands_v1",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3219508838
+    },
+    {
+        "Name": "mg_sky_realm_v3",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070451616
+    },
+    {
+        "Name": "mg_skygrass_balkanstar",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 04:18:27",
+        "Steam": 3161554251
+    },
+    {
+        "Name": "mg_slowdown",
+        "CnName": "",
+        "Difficulty": "困难",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "2024-08-28 00:59:37",
+        "Steam": 3278023104
+    },
+    {
+        "Name": "mg_sonic_course_v2",
+        "CnName": "",
+        "Difficulty": "简单",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070452642
+    },
+    {
+        "Name": "mg_sonic_islands_v4",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3166488259
+    },
+    {
+        "Name": "mg_space_course_cs2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3075574739
+    },
+    {
+        "Name": "mg_supernatural_course",
+        "CnName": "[困难]超自然~",
+        "Difficulty": "困难",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "无",
+        "Steam": 3168333071
+    },
+    {
+        "Name": "mg_switch_course_v2",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070439729
+    },
+    {
+        "Name": "mg_xiazuo_t",
+        "CnName": "[困难]瞎做!",
+        "Difficulty": "困难",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3302548592
+    },
+    {
+        "Name": "mg_zeizeiii",
+        "CnName": "",
+        "Difficulty": "普通",
+        "CooldownMinute": "7.0时",
+        "CooldownEnd": "无",
+        "Steam": 3214872987
+    },
+    {
+        "Name": "ze_1way_tunnel",
+        "CnName": "单向隧道",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3217363701
+    },
+    {
+        "Name": "ze_8bit",
+        "CnName": "8bit世界",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3227899731
+    },
+    {
+        "Name": "ze_abandoned_industry_p",
+        "CnName": "废弃工厂",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3071209915
+    },
+    {
+        "Name": "ze_act_character_relic",
+        "CnName": "序章：遗迹",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3271517064
+    },
+    {
+        "Name": "ze_alien_mountain_escape_p",
+        "CnName": "阿里山",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3145781680
+    },
+    {
+        "Name": "ze_angelbeats_guild",
+        "CnName": "天使的心跳",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3306796313
+    },
+    {
+        "Name": "ze_angels_of_death",
+        "CnName": "杀戮天使",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 02:57:32",
+        "Steam": 3277022050
+    },
+    {
+        "Name": "ze_antartika_p",
+        "CnName": "南极基地",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3210240252
+    },
+    {
+        "Name": "ze_anzalone_remake",
+        "CnName": "安扎隆断后长廊",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3113561170
+    },
+    {
+        "Name": "ze_aooka",
+        "CnName": "龙之殿",
+        "Difficulty": "极难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 06:04:25",
+        "Steam": 3310240982
+    },
+    {
+        "Name": "ze_aoraitsu_reloaded",
+        "CnName": "流光幻境",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-27 23:23:01",
+        "Steam": 3286182665
+    },
+    {
+        "Name": "ze_aot_trost_v6r",
+        "CnName": "进击的巨人",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 02:46:37",
+        "Steam": 3262920150
+    },
+    {
+        "Name": "ze_aperturescience_p",
+        "CnName": "光圈科技",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3252379913
+    },
+    {
+        "Name": "ze_aragami_p",
+        "CnName": "荒神",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3226680626
+    },
+    {
+        "Name": "ze_arcana_heart",
+        "CnName": "阿卡纳之心",
+        "Difficulty": "史诗",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3248842358
+    },
+    {
+        "Name": "ze_arctic_escape_p",
+        "CnName": "北极逃亡",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3072610663
+    },
+    {
+        "Name": "ze_ardenweald",
+        "CnName": "魔兽世界：炽蓝仙野",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3273717624
+    },
+    {
+        "Name": "ze_artika_base_p",
+        "CnName": "阿提卡基地",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3084697233
+    },
+    {
+        "Name": "ze_atix_apocalypse_p",
+        "CnName": "牢大逃亡:归来",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3087543130
+    },
+    {
+        "Name": "ze_atix_panic_2017_p",
+        "CnName": "牢大逃亡2017",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3223525974
+    },
+    {
+        "Name": "ze_atix_panic_p",
+        "CnName": "牢大逃亡",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3076578445
+    },
+    {
+        "Name": "ze_atl_lgnition_a1",
+        "CnName": "湮灭影像：起源",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3242904743
+    },
+    {
+        "Name": "ze_awaker",
+        "CnName": "觉醒者",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-30 19:38:57",
+        "Steam": 3251914993
+    },
+    {
+        "Name": "ze_aware",
+        "CnName": "无限回廊先知圣地",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3251593033
+    },
+    {
+        "Name": "ze_azathoth_p",
+        "CnName": "阿撒托斯",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3198066058
+    },
+    {
+        "Name": "ze_aztecnoob_p",
+        "CnName": "阿兹特克遗迹",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3070231528
+    },
+    {
+        "Name": "ze_backrooms_deathbed_v1",
+        "CnName": "后室：死眠",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 01:44:02",
+        "Steam": 3174524746
+    },
+    {
+        "Name": "ze_bathroom",
+        "CnName": "浴室逃亡",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3250974096
+    },
+    {
+        "Name": "ze_biohazard_manor_004_p",
+        "CnName": "生化危机：洋馆",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3214250988
+    },
+    {
+        "Name": "ze_biohazard2_rpd_004_p",
+        "CnName": "生化危机：警察局",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3154062503
+    },
+    {
+        "Name": "ze_blackmesa_escape_p",
+        "CnName": "黑山基地：重装上阵",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3083632383
+    },
+    {
+        "Name": "ze_bluearchive_abydos_b1",
+        "CnName": "碧蓝档案：大蛇总力战",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-27 22:09:54",
+        "Steam": 3261481731
+    },
+    {
+        "Name": "ze_boacceho_p",
+        "CnName": "boacceho逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3201834353
+    },
+    {
+        "Name": "ze_boatescape101_p",
+        "CnName": "坐船跑101",
+        "Difficulty": "简单",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3070281654
+    },
+    {
+        "Name": "ze_boatescape888",
+        "CnName": "开心快乐坐船跑888",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3169214837
+    },
+    {
+        "Name": "ze_boatescape999",
+        "CnName": "开心快乐坐船跑999",
+        "Difficulty": "简单",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3280054813
+    },
+    {
+        "Name": "ze_box_defend_v1_4",
+        "CnName": "代号：盒子防守v1.4",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3133817890
+    },
+    {
+        "Name": "ze_bp-infested-prison_p",
+        "CnName": "监狱逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3071453239
+    },
+    {
+        "Name": "ze_breakable_p",
+        "CnName": "随处可破坏的箱子",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3080846697
+    },
+    {
+        "Name": "ze_celestial_ops",
+        "CnName": "天堂",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3150912938
+    },
+    {
+        "Name": "ze_christmas_p",
+        "CnName": "圣诞小镇",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-27 23:36:45",
+        "Steam": 3215749919
+    },
+    {
+        "Name": "ze_chronus_p",
+        "CnName": "克罗诺斯山谷",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3091942084
+    },
+    {
+        "Name": "ze_clawfactory",
+        "CnName": "蟹老板工厂",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3273810530
+    },
+    {
+        "Name": "ze_colorlicouspilar_p",
+        "CnName": "彩虹塔",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075687337
+    },
+    {
+        "Name": "ze_colors_p",
+        "CnName": "搞颜色",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3099208354
+    },
+    {
+        "Name": "ze_compound_escape",
+        "CnName": "逃离化学工厂",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3233851029
+    },
+    {
+        "Name": "ze_conflict",
+        "CnName": "公交车",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-28 22:20:55",
+        "Steam": 3291812593
+    },
+    {
+        "Name": "ze_dangerous_waters_p",
+        "CnName": "危险水域",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3073379342
+    },
+    {
+        "Name": "ze_darkest_hour",
+        "CnName": "至暗时刻",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-31 17:46:42",
+        "Steam": 3243560785
+    },
+    {
+        "Name": "ze_deadcore",
+        "CnName": "死亡核心",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-30 20:48:03",
+        "Steam": 3304554968
+    },
+    {
+        "Name": "ze_death_star_escape_p",
+        "CnName": "死星逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3251815259
+    },
+    {
+        "Name": "ze_deepice_p",
+        "CnName": "深井冰",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3083573930
+    },
+    {
+        "Name": "ze_defense3002_p",
+        "CnName": "代号：防守 V300_2",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3073553926
+    },
+    {
+        "Name": "ze_descent_into_cerberon_p",
+        "CnName": "破碎行动",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3101174331
+    },
+    {
+        "Name": "ze_diverted_destiny",
+        "CnName": "反抗命运的序曲",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3282400800
+    },
+    {
+        "Name": "ze_dormitory_uestc",
+        "CnName": "大学宿舍",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-27 22:52:16",
+        "Steam": 3088434789
+    },
+    {
+        "Name": "ze_dragonball_snakeway_p",
+        "CnName": "龙珠：蛇道",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3129406884
+    },
+    {
+        "Name": "ze_dystopia_p",
+        "CnName": "敌托邦",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 05:34:43",
+        "Steam": 3159658783
+    },
+    {
+        "Name": "ze_eizures_b1_1",
+        "CnName": "核子危机",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 00:50:49",
+        "Steam": 3102196028
+    },
+    {
+        "Name": "ze_eizures_b2",
+        "CnName": "核子危机：新征程",
+        "Difficulty": "史诗",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "2024-08-28 01:14:15",
+        "Steam": 3309934498
+    },
+    {
+        "Name": "ze_elevator_escape_p",
+        "CnName": "电梯逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3135918205
+    },
+    {
+        "Name": "ze_emerald",
+        "CnName": "绿宝石宫殿",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3167475235
+    },
+    {
+        "Name": "ze_escape_the_eye_p",
+        "CnName": "逃离天眼",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3228849421
+    },
+    {
+        "Name": "ze_evil_mansion_p",
+        "CnName": "邪恶公馆",
+        "Difficulty": "普通",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3267932570
+    },
+    {
+        "Name": "ze_fapescape_katrina",
+        "CnName": "乐高逃亡:katrina",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "无",
+        "Steam": 3309007201
+    },
+    {
+        "Name": "ze_fapescape_p",
+        "CnName": "旧乐高大逃亡",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3211676445
+    },
+    {
+        "Name": "ze_fapescape_rote_p",
+        "CnName": "新乐高逃亡：噩梦陷阱",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 05:41:51",
+        "Steam": 3231280179
+    },
+    {
+        "Name": "ze_farmhouse_p",
+        "CnName": "坦克农场",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3252377262
+    },
+    {
+        "Name": "ze_fast_escape_p",
+        "CnName": "fast逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3070332866
+    },
+    {
+        "Name": "ze_ffvii_cosmo_canyon_t",
+        "CnName": "最终幻想7：宇宙峡谷",
+        "Difficulty": "极难",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "无",
+        "Steam": 3310260547
+    },
+    {
+        "Name": "ze_ffvii_mako_reactor_v5_3",
+        "CnName": "最终幻想7：魔光炉V53",
+        "Difficulty": "极难",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 23:36:54",
+        "Steam": 3289746748
+    },
+    {
+        "Name": "ze_ffvii_mako_reactor_v6_p",
+        "CnName": "最终幻想7：魔光炉V6",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 19:07:47",
+        "Steam": 3273375829
+    },
+    {
+        "Name": "ze_ffvii_snow_cosmo",
+        "CnName": "最终幻想7：雪地峡谷",
+        "Difficulty": "极难",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 14:50:04",
+        "Steam": 3295082384
+    },
+    {
+        "Name": "ze_ffxii_feywood_t",
+        "CnName": "最终幻想12：幻妖之森",
+        "Difficulty": "极难",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 17:31:45",
+        "Steam": 3270937493
+    },
+    {
+        "Name": "ze_ffxii_westersand_v7_t",
+        "CnName": "最终幻想12：西沙v7",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 23:58:00",
+        "Steam": 3236270292
+    },
+    {
+        "Name": "ze_ffxiv_reisen_temple",
+        "CnName": "最终幻想14：醴泉神社",
+        "Difficulty": "极难",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 16:57:13",
+        "Steam": 3220221743
+    },
+    {
+        "Name": "ze_firewall_laboratory_part1_p",
+        "CnName": "紧张刺激防火墙1",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3199805346
+    },
+    {
+        "Name": "ze_firewall_laboratory_part2_p",
+        "CnName": "防火墙2",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3201034411
+    },
+    {
+        "Name": "ze_fond_dream",
+        "CnName": "南柯一梦",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-30 19:49:41",
+        "Steam": 3285633504
+    },
+    {
+        "Name": "ze_forhidden_slicoo_cs2",
+        "CnName": "禁地斯狄科",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "无",
+        "Steam": 3261709847
+    },
+    {
+        "Name": "ze_forius_just_run_p",
+        "CnName": "不要害怕只管跑",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3173196031
+    },
+    {
+        "Name": "ze_forsaken_temple",
+        "CnName": "遗忘神殿",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 01:56:43",
+        "Steam": 3247462748
+    },
+    {
+        "Name": "ze_frostdrake_tower_p",
+        "CnName": "寒霜高塔",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 04:21:55",
+        "Steam": 3120465300
+    },
+    {
+        "Name": "ze_geometric",
+        "CnName": "几何奥秘",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3281834374
+    },
+    {
+        "Name": "ze_greece_escape_p",
+        "CnName": "希腊逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3087521295
+    },
+    {
+        "Name": "ze_greencity_p",
+        "CnName": "绿之城",
+        "Difficulty": "简单",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-27 23:35:27",
+        "Steam": 3194922441
+    },
+    {
+        "Name": "ze_gtasa_police_station_2_m",
+        "CnName": "GTA警察局2",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3149243533
+    },
+    {
+        "Name": "ze_gtasa_police_station_remix_m",
+        "CnName": "GTA警察局",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3111843681
+    },
+    {
+        "Name": "ze_hammer_bunker_part1",
+        "CnName": "锤子地堡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3268855381
+    },
+    {
+        "Name": "ze_happiness_factory",
+        "CnName": "代号：幸福工厂",
+        "Difficulty": "史诗",
+        "CooldownMinute": "12.0时",
+        "CooldownEnd": "2024-08-28 05:13:06",
+        "Steam": 3301592460
+    },
+    {
+        "Name": "ze_haunted_lab_escape_p",
+        "CnName": "闹鬼实验室",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3076662784
+    },
+    {
+        "Name": "ze_hazard_escape_p",
+        "CnName": "炸桥传奇2",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3072150479
+    },
+    {
+        "Name": "ze_hidden_fortress_p",
+        "CnName": "隐秘要塞",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3072712278
+    },
+    {
+        "Name": "ze_hlc_citadel_v1",
+        "CnName": "hlc城堡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3086356772
+    },
+    {
+        "Name": "ze_honkai_impact_changkongshi",
+        "CnName": "崩坏3:长空市",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3256961169
+    },
+    {
+        "Name": "ze_honkai_impact_tqs",
+        "CnName": "天穹市",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 02:23:22",
+        "Steam": 3311391580
+    },
+    {
+        "Name": "ze_hydroponic_garden",
+        "CnName": "水培花园",
+        "Difficulty": "史诗",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3265261614
+    },
+    {
+        "Name": "ze_iamlegend_p",
+        "CnName": "我是炸桥传奇",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3079562247
+    },
+    {
+        "Name": "ze_icecap_escape_p",
+        "CnName": "西瓜橘子坐船跑",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075976468
+    },
+    {
+        "Name": "ze_illusory_world",
+        "CnName": "虚空幻界",
+        "Difficulty": "极难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 03:25:13",
+        "Steam": 3243378527
+    },
+    {
+        "Name": "ze_immortal_flame",
+        "CnName": "永恒烈焰",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-31 13:00:19",
+        "Steam": 3292773390
+    },
+    {
+        "Name": "ze_inboxed_p",
+        "CnName": "inbox追击",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3169700716
+    },
+    {
+        "Name": "ze_industrial_dejavu",
+        "CnName": "工业循环",
+        "Difficulty": "普通",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 08:16:19",
+        "Steam": 3303378356
+    },
+    {
+        "Name": "ze_infiltration_final_p",
+        "CnName": "潜入行动",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3283238776
+    },
+    {
+        "Name": "ze_interception_p",
+        "CnName": "拦截行动",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3089070637
+    },
+    {
+        "Name": "ze_jiangnan_town_v3_1",
+        "CnName": "江南水乡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3250118774
+    },
+    {
+        "Name": "ze_journey_p",
+        "CnName": "黑暗之魂：旅途",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3125207714
+    },
+    {
+        "Name": "ze_jurassic_life",
+        "CnName": "侏罗纪生存记",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3306638579
+    },
+    {
+        "Name": "ze_jurassicpark_p",
+        "CnName": "侏罗纪公园",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3083543662
+    },
+    {
+        "Name": "ze_k19_escape_p",
+        "CnName": "k19逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3170603615
+    },
+    {
+        "Name": "ze_kage_cs2",
+        "CnName": "赤影战士",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3126748848
+    },
+    {
+        "Name": "ze_l0v0l_p",
+        "CnName": "颜文字1 - l0v0l",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 11:34:28",
+        "Steam": 3240966394
+    },
+    {
+        "Name": "ze_legends_of_dawn",
+        "CnName": "黎明传说",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3244020906
+    },
+    {
+        "Name": "ze_lemonade",
+        "CnName": "冰鲜柠檬水",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3148678988
+    },
+    {
+        "Name": "ze_licciana_escape_p",
+        "CnName": "里西西亚",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3072646272
+    },
+    {
+        "Name": "ze_lightnight_v1",
+        "CnName": "光与暗",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-09-01 16:59:03",
+        "Steam": 3280980480
+    },
+    {
+        "Name": "ze_loom",
+        "CnName": "恐惧隐现",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3214940342
+    },
+    {
+        "Name": "ze_lotr_helms_deep_p",
+        "CnName": "魔戒：圣盔谷之战",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3182611588
+    },
+    {
+        "Name": "ze_lotr_isengard",
+        "CnName": "魔戒：艾辛格",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3133242053
+    },
+    {
+        "Name": "ze_lotr_minas_tirith_p",
+        "CnName": "魔戒：米那斯提力斯",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 12:33:58",
+        "Steam": 3314560349
+    },
+    {
+        "Name": "ze_lotr_mines_of_moria_p",
+        "CnName": "魔戒：摩瑞亚矿坑",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3220471698
+    },
+    {
+        "Name": "ze_lotr_mirkwood_p",
+        "CnName": "魔戒：幽暗密林",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3199590006
+    },
+    {
+        "Name": "ze_lotr_mount_doom_p",
+        "CnName": "魔戒：末日火山",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3266739716
+    },
+    {
+        "Name": "ze_luciddreams_cs2",
+        "CnName": "清醒梦",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3177491488
+    },
+    {
+        "Name": "ze_luigismansion_p",
+        "CnName": "路易基鬼屋",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3098731139
+    },
+    {
+        "Name": "ze_mabinogi_f4_1_cs2",
+        "CnName": "洛奇",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3138594789
+    },
+    {
+        "Name": "ze_magala_castle_p",
+        "CnName": "玛格拉城堡",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3090180606
+    },
+    {
+        "Name": "ze_magic_carpet_p",
+        "CnName": "魔毯世界",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3262559311
+    },
+    {
+        "Name": "ze_magus_v2_4",
+        "CnName": "仲夏夜之梦",
+        "Difficulty": "普通",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3309053758
+    },
+    {
+        "Name": "ze_mars_escape_xmas_p",
+        "CnName": "火星逃亡圣诞版",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3104693607
+    },
+    {
+        "Name": "ze_minecraft_p",
+        "CnName": "我的世界",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3215084604
+    },
+    {
+        "Name": "ze_minecraft_sakura",
+        "CnName": "我的世界：撒库拉岛",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 04:08:45",
+        "Steam": 3184013959
+    },
+    {
+        "Name": "ze_minecratix",
+        "CnName": "我的世界：高端防守战",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3231500986
+    },
+    {
+        "Name": "ze_mirrors_edge_reborn_p",
+        "CnName": "镜之边缘：跑酷重生",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3170476530
+    },
+    {
+        "Name": "ze_mkzk_scarab_v4",
+        "CnName": "重生之我在ZE倒斗-究极无敌折磨之圣甲虫法老王金字塔V4",
+        "Difficulty": "绝境",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 21:15:58",
+        "Steam": 3268041581
+    },
+    {
+        "Name": "ze_neron",
+        "CnName": "盈能之境",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-27 22:06:00",
+        "Steam": 3295495749
+    },
+    {
+        "Name": "ze_newyork_escape_p",
+        "CnName": "纽约大逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3153952411
+    },
+    {
+        "Name": "ze_noir_p",
+        "CnName": "黑色街道",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3101279523
+    },
+    {
+        "Name": "ze_npst_v8_gmod",
+        "CnName": "代号：黑山计划",
+        "Difficulty": "史诗",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-31 14:58:19",
+        "Steam": 3161561155
+    },
+    {
+        "Name": "ze_obf_filth_v1",
+        "CnName": "代号：怒火中烧",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-30 15:39:33",
+        "Steam": 3160547491
+    },
+    {
+        "Name": "ze_obf_insane",
+        "CnName": "代号：烈火雄心",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 19:45:46",
+        "Steam": 3310660027
+    },
+    {
+        "Name": "ze_obf_rescape",
+        "CnName": "代号：浴火重生",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 22:44:52",
+        "Steam": 3283167200
+    },
+    {
+        "Name": "ze_obj_encounter",
+        "CnName": "代号：针锋相对",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 22:39:22",
+        "Steam": 3259618066
+    },
+    {
+        "Name": "ze_obj_encounter_a2",
+        "CnName": "代号：针锋相对",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 16:27:13",
+        "Steam": 3177085312
+    },
+    {
+        "Name": "ze_obj_encounter_b1",
+        "CnName": "代号：针锋相对b1",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "无",
+        "Steam": 3259618066
+    },
+    {
+        "Name": "ze_obj_escalation_v1",
+        "CnName": "代号：飞升计划",
+        "Difficulty": "梦魇",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-28 14:48:35",
+        "Steam": 3297038916
+    },
+    {
+        "Name": "ze_obj_rampage_v1_2",
+        "CnName": "代号：横空出世",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 19:47:25",
+        "Steam": 3159812985
+    },
+    {
+        "Name": "ze_ocean_base_escape_p",
+        "CnName": "海底基地",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3076043478
+    },
+    {
+        "Name": "ze_ocean_heart_cs2",
+        "CnName": "海洋之心",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3242876423
+    },
+    {
+        "Name": "ze_offliner",
+        "CnName": "單丶機者",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-30 20:23:28",
+        "Steam": 3255547370
+    },
+    {
+        "Name": "ze_omega_p",
+        "CnName": "欧米茄",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075635324
+    },
+    {
+        "Name": "ze_omen_cs2",
+        "CnName": "启示：命运预兆",
+        "Difficulty": "史诗",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3267175222
+    },
+    {
+        "Name": "ze_oneiros_p",
+        "CnName": "奥内罗斯",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3111583269
+    },
+    {
+        "Name": "ze_only_up",
+        "CnName": "Only Up!",
+        "Difficulty": "史诗",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-09-01 20:19:32",
+        "Steam": 3171061416
+    },
+    {
+        "Name": "ze_otakuroom_pt",
+        "CnName": "御宅房",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 02:39:52",
+        "Steam": 3128321209
+    },
+    {
+        "Name": "ze_outpost_escape_p",
+        "CnName": "前哨基地逃亡",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3292176189
+    },
+    {
+        "Name": "ze_overlord",
+        "CnName": "不死者之王",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 07:54:41",
+        "Steam": 3259318150
+    },
+    {
+        "Name": "ze_p_v_z",
+        "CnName": "植物大战僵尸",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3274462953
+    },
+    {
+        "Name": "ze_palace_adventure",
+        "CnName": "宫殿冒险",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3277028846
+    },
+    {
+        "Name": "ze_panic_escape_p",
+        "CnName": "跳刀仓库",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-27 22:36:04",
+        "Steam": 3142876280
+    },
+    {
+        "Name": "ze_parkers_pit_p",
+        "CnName": "帕克矿坑",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3203203928
+    },
+    {
+        "Name": "ze_platformer_p",
+        "CnName": "[娱乐]捡币b6",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3257491664
+    },
+    {
+        "Name": "ze_pokemon_kanto_v1",
+        "CnName": "宝可梦道馆",
+        "Difficulty": "困难",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3100100976
+    },
+    {
+        "Name": "ze_pools_p",
+        "CnName": "后室level130：荒谬泳池",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075014275
+    },
+    {
+        "Name": "ze_popkart_b3",
+        "CnName": "卡卡跑车丁",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3247766438
+    },
+    {
+        "Name": "ze_por_island_p",
+        "CnName": "刷分岛",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3071483803
+    },
+    {
+        "Name": "ze_postal_p",
+        "CnName": "夺命邮差",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3218547242
+    },
+    {
+        "Name": "ze_potc_p",
+        "CnName": "小加勒比",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3084219587
+    },
+    {
+        "Name": "ze_predator_ultimate_p",
+        "CnName": "铁血战士",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 03:06:27",
+        "Steam": 3184009332
+    },
+    {
+        "Name": "ze_purification_a1",
+        "CnName": "净化",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-09-01 20:49:57",
+        "Steam": 3128279930
+    },
+    {
+        "Name": "ze_puta_p",
+        "CnName": "PUTA工厂",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3078006878
+    },
+    {
+        "Name": "ze_raccoon_facility_p",
+        "CnName": "生化危机：蜂巢",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075694806
+    },
+    {
+        "Name": "ze_random_p",
+        "CnName": "随机大爆炸",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3134108142
+    },
+    {
+        "Name": "ze_ratatouille",
+        "CnName": "美食总动员",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3258064134
+    },
+    {
+        "Name": "ze_requiem_test",
+        "CnName": "镇魂曲",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "无",
+        "Steam": 3134550710
+    },
+    {
+        "Name": "ze_rizomata_p",
+        "CnName": "精灵塔:苍穹之诗",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "无",
+        "Steam": 3252844768
+    },
+    {
+        "Name": "ze_rooftop_runaway1_p",
+        "CnName": "屋顶逃亡1",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075946829
+    },
+    {
+        "Name": "ze_rooftop_runaway2_p",
+        "CnName": "屋顶逃亡2",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075967570
+    },
+    {
+        "Name": "ze_s_a_m",
+        "CnName": "刀剑神域",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 06:07:34",
+        "Steam": 3217227843
+    },
+    {
+        "Name": "ze_sandstorm_cs2",
+        "CnName": "沙尘暴",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "2024-08-28 04:02:54",
+        "Steam": 3148296430
+    },
+    {
+        "Name": "ze_saw_p",
+        "CnName": "锯与魔法",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3171881962
+    },
+    {
+        "Name": "ze_secret_garden",
+        "CnName": "goobers的秘密花園",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3175004434
+    },
+    {
+        "Name": "ze_showdown_p",
+        "CnName": "巅峰对决",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3149203270
+    },
+    {
+        "Name": "ze_shroomforest_p",
+        "CnName": "蘑菇森林1",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3212196068
+    },
+    {
+        "Name": "ze_shroomforest2_p",
+        "CnName": "蘑菇森林2",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3258673372
+    },
+    {
+        "Name": "ze_siberia_1990_p",
+        "CnName": "西伯利亚1990",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3241013638
+    },
+    {
+        "Name": "ze_silent_hill_2_illusion",
+        "CnName": "寂静岭2:幻境",
+        "Difficulty": "困难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 07:29:29",
+        "Steam": 3272284666
+    },
+    {
+        "Name": "ze_silent_hill_3_dawn",
+        "CnName": "寂静岭3:黎明",
+        "Difficulty": "困难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 06:51:49",
+        "Steam": 3303188199
+    },
+    {
+        "Name": "ze_silent_hill_3_flee",
+        "CnName": "寂静岭3:逃离",
+        "Difficulty": "困难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "无",
+        "Steam": 3303191928
+    },
+    {
+        "Name": "ze_silent_hill_blackblood",
+        "CnName": "寂静岭：黑血",
+        "Difficulty": "困难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 10:11:07",
+        "Steam": 3267382742
+    },
+    {
+        "Name": "ze_silenthill_pt",
+        "CnName": "寂静岭：pt",
+        "Difficulty": "困难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 10:42:31",
+        "Steam": 3284621426
+    },
+    {
+        "Name": "ze_simple_teamplay_p",
+        "CnName": "非常简单的团队游戏",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3266019386
+    },
+    {
+        "Name": "ze_sisyphus",
+        "CnName": "西西弗斯的历练",
+        "Difficulty": "绝境",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "无",
+        "Steam": 3208444375
+    },
+    {
+        "Name": "ze_sky_bridge_a01_fix3",
+        "CnName": "天空之桥",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "2024-08-27 22:43:42",
+        "Steam": 3137495751
+    },
+    {
+        "Name": "ze_sky_fantasy",
+        "CnName": "天空幻想",
+        "Difficulty": "极难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 09:29:54",
+        "Steam": 3267469267
+    },
+    {
+        "Name": "ze_skygarden",
+        "CnName": "天穹树",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3264110647
+    },
+    {
+        "Name": "ze_slender_escape_p",
+        "CnName": "面条人：瘦长鬼影",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3219243688
+    },
+    {
+        "Name": "ze_sorrento_arknights_cs2_l",
+        "CnName": "索伦托：明日方舟",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3268104738
+    },
+    {
+        "Name": "ze_sorrento_escape_p",
+        "CnName": "索伦托逃亡",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3075789914
+    },
+    {
+        "Name": "ze_stab_town_p",
+        "CnName": "小镇突袭",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3118969371
+    },
+    {
+        "Name": "ze_stalkermonolith",
+        "CnName": "潜行者：黑石",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "无",
+        "Steam": 3194494417
+    },
+    {
+        "Name": "ze_stark_escape",
+        "CnName": "史塔克逃亡",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3276197721
+    },
+    {
+        "Name": "ze_starwars_v2fix",
+        "CnName": "星球大战v2fix",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3123260164
+    },
+    {
+        "Name": "ze_steyliff_grove",
+        "CnName": "最终幻想15：斯基利弗樹林迷宫",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "无",
+        "Steam": 3304076935
+    },
+    {
+        "Name": "ze_sumai_facility_lite",
+        "CnName": "sumai工厂",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3197712518
+    },
+    {
+        "Name": "ze_summer_house",
+        "CnName": "绚夏别墅",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3273903663
+    },
+    {
+        "Name": "ze_tesv_skyrim_p",
+        "CnName": "上古卷轴：天际",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-28 07:37:19",
+        "Steam": 3242492031
+    },
+    {
+        "Name": "ze_texturescape_cs2_l",
+        "CnName": "坑爹逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3278144490
+    },
+    {
+        "Name": "ze_thousand_steps_p",
+        "CnName": "千层阶梯",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3074987016
+    },
+    {
+        "Name": "ze_tilex_escape_p",
+        "CnName": "列车逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3109957993
+    },
+    {
+        "Name": "ze_tilex_ultimate_p",
+        "CnName": "跳刀列车",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3304371486
+    },
+    {
+        "Name": "ze_titanic_sweet_dreams",
+        "CnName": "梦中的泰坦尼克号",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3166117924
+    },
+    {
+        "Name": "ze_tkara_p",
+        "CnName": "塔卡拉基地",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3101065234
+    },
+    {
+        "Name": "ze_totemo_roka_p",
+        "CnName": "神秘海域",
+        "Difficulty": "极难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3096674083
+    },
+    {
+        "Name": "ze_townscapes",
+        "CnName": "小镇逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3138193816
+    },
+    {
+        "Name": "ze_toy_world_final",
+        "CnName": "玩具世界",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3269254804
+    },
+    {
+        "Name": "ze_trainescape_p",
+        "CnName": "火车逃亡",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3267059270
+    },
+    {
+        "Name": "ze_uchiha_legacy",
+        "CnName": "宇智波：遗响",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "2024-08-29 16:06:16",
+        "Steam": 3278140812
+    },
+    {
+        "Name": "ze_ultra_ungent_a2_cs2",
+        "CnName": "超级跳绳王",
+        "Difficulty": "极难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 11:12:44",
+        "Steam": 3111525416
+    },
+    {
+        "Name": "ze_umbrellazombie_v1_p3_final",
+        "CnName": "保护伞公司3",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3212650219
+    },
+    {
+        "Name": "ze_umbrellazombie_v1_part2_1",
+        "CnName": "保护伞公司2",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3173114474
+    },
+    {
+        "Name": "ze_umbrellazombiezmtr_v1",
+        "CnName": "保护伞公司1",
+        "Difficulty": "普通",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3158864083
+    },
+    {
+        "Name": "ze_undertale_sans_final",
+        "CnName": "传说之下：san战",
+        "Difficulty": "极难",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 07:02:53",
+        "Steam": 3294459795
+    },
+    {
+        "Name": "ze_upwards_p",
+        "CnName": "步步高升",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3082185566
+    },
+    {
+        "Name": "ze_urban_laby_of_death_p",
+        "CnName": "城市迷宫",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3304571694
+    },
+    {
+        "Name": "ze_urbanstone",
+        "CnName": "石头城市",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3264302314
+    },
+    {
+        "Name": "ze_venice_escape_p",
+        "CnName": "威尼斯老家",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3173139330
+    },
+    {
+        "Name": "ze_vietnam_p",
+        "CnName": "越南雨林",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3193837246
+    },
+    {
+        "Name": "ze_virtual_insanity_v1",
+        "CnName": "错乱疯狂",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3138239284
+    },
+    {
+        "Name": "ze_visualizer",
+        "CnName": "监视者",
+        "Difficulty": "极难",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-31 23:09:08",
+        "Steam": 3257332702
+    },
+    {
+        "Name": "ze_voodoo_islands_p",
+        "CnName": "巫毒岛",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3083304405
+    },
+    {
+        "Name": "ze_voodoo_xtrem_islands",
+        "CnName": "巫毒岛终极版",
+        "Difficulty": "困难",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3254785591
+    },
+    {
+        "Name": "ze_waterpark",
+        "CnName": "长隆水上乐园",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3145775550
+    },
+    {
+        "Name": "ze_wicked_organization",
+        "CnName": "wicked组织",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3291775385
+    },
+    {
+        "Name": "ze_winter_warehouse_p",
+        "CnName": "冰雪牢缘",
+        "Difficulty": "简单",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3144617784
+    },
+    {
+        "Name": "ze_xenovation",
+        "CnName": "异界终章",
+        "Difficulty": "史诗",
+        "CooldownMinute": "5.0天",
+        "CooldownEnd": "2024-08-29 16:16:42",
+        "Steam": 3299009552
+    },
+    {
+        "Name": "ze_yueyingchuanshuo",
+        "CnName": "月影传说",
+        "Difficulty": "史诗",
+        "CooldownMinute": "40.0时",
+        "CooldownEnd": "2024-08-29 12:05:50",
+        "Steam": 3253885951
+    },
+    {
+        "Name": "ze_zandalar_forever",
+        "CnName": "赞达拉万古长存",
+        "Difficulty": "史诗",
+        "CooldownMinute": "8.0时",
+        "CooldownEnd": "无",
+        "Steam": 3297642912
+    },
+    {
+        "Name": "ze_zertinan",
+        "CnName": "最终幻想12：泽尔提南",
+        "Difficulty": "史诗",
+        "CooldownMinute": "3.0天",
+        "CooldownEnd": "无",
+        "Steam": 3271367553
+    },
+    {
+        "Name": "ze_zk_fapescape_p",
+        "CnName": "小乐高逃亡",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3208033496
+    },
+    {
+        "Name": "ze_zk_mall_of_zombies_p",
+        "CnName": "购物中心",
+        "Difficulty": "普通",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3111585991
+    },
+    {
+        "Name": "ze_zombierig_p",
+        "CnName": "钻井平台",
+        "Difficulty": "困难",
+        "CooldownMinute": "60分",
+        "CooldownEnd": "无",
+        "Steam": 3090094325
+    },
+    {
+        "Name": "zm_1nfern0_dawn_halloween_p",
+        "CnName": "炼狱小镇万圣惊魂",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "无",
+        "Steam": 3265658249
+    },
+    {
+        "Name": "zm_1taly_cos_v1_p",
+        "CnName": "意大利小镇",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "无",
+        "Steam": 3266760029
+    },
+    {
+        "Name": "zm_420_office_p",
+        "CnName": "420杂物办公室",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3164948364
+    },
+    {
+        "Name": "zm_abyss2_v2_2_p",
+        "CnName": "生化危机2",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "无",
+        "Steam": 3261657893
+    },
+    {
+        "Name": "zm_abyss3_v2_p",
+        "CnName": "生化危机3",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "无",
+        "Steam": 3262125075
+    },
+    {
+        "Name": "zm_alley",
+        "CnName": "核子小巷",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3251292323
+    },
+    {
+        "Name": "zm_aztec_nopure_night_p",
+        "CnName": "阿兹特克昼夜求生",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "无",
+        "Steam": 3266806999
+    },
+    {
+        "Name": "zm_backalley_deep_night_v2_p",
+        "CnName": "后巷",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3286641341
+    },
+    {
+        "Name": "zm_baka_vent_park",
+        "CnName": "⑨的管道乐园",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3221576305
+    },
+    {
+        "Name": "zm_battleforce_remake_v3_4a",
+        "CnName": "战斗竞技场",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-27 22:53:03",
+        "Steam": 3163617750
+    },
+    {
+        "Name": "zm_biochemical_hotel",
+        "CnName": "喜爱福生化酒店",
+        "Difficulty": "简单",
+        "CooldownMinute": "6.0时",
+        "CooldownEnd": "无",
+        "Steam": 3223106683
+    },
+    {
+        "Name": "zm_boundaries",
+        "CnName": "边界",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3248948312
+    },
+    {
+        "Name": "zm_caper",
+        "CnName": "身法都市",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3251932776
+    },
+    {
+        "Name": "zm_cardboard_castles",
+        "CnName": "纸盒防守堡垒",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3120612669
+    },
+    {
+        "Name": "zm_cbglc_b3_space_fixed",
+        "CnName": "箱子特别多",
+        "Difficulty": "简单",
+        "CooldownMinute": "10.0时",
+        "CooldownEnd": "无",
+        "Steam": 3173223192
+    },
+    {
+        "Name": "zm_challenge_zm",
+        "CnName": "[EZzm]石开发只因土也",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-28 00:41:06",
+        "Steam": 3316874500
+    },
+    {
+        "Name": "zm_crazycity",
+        "CnName": "疯狂城市",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3192909622
+    },
+    {
+        "Name": "zm_dazzling_p",
+        "CnName": "紫荆花都",
+        "Difficulty": "简单",
+        "CooldownMinute": "120分",
+        "CooldownEnd": "无",
+        "Steam": 3270806256
+    },
+    {
+        "Name": "zm_dbd_glenvale_saloon_t1",
+        "CnName": "黎明杀机:死狗酒馆",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3147703963
+    },
+    {
+        "Name": "zm_dead_center",
+        "CnName": "板子管道之王",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3247654318
+    },
+    {
+        "Name": "zm_dream_start",
+        "CnName": "致敬传奇鸟狙仙人用户玩家",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3252076646
+    },
+    {
+        "Name": "zm_eastern_night_v4_p",
+        "CnName": "永远亭",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3257443064
+    },
+    {
+        "Name": "zm_ezzm_",
+        "CnName": "[EZzm]废墟城堡防守",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3261039903
+    },
+    {
+        "Name": "zm_gorodok_cs2_v1",
+        "CnName": "戈罗多克",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3100743780
+    },
+    {
+        "Name": "zm_hardzm",
+        "CnName": "[EZzm]Touhou中心",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-28 00:16:45",
+        "Steam": 3273722705
+    },
+    {
+        "Name": "zm_high_divide",
+        "CnName": "盒子防守",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3120609095
+    },
+    {
+        "Name": "zm_ice_canyons",
+        "CnName": "蜜雪冰城",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-27 23:36:01",
+        "Steam": 3216490934
+    },
+    {
+        "Name": "zm_jiequ",
+        "CnName": "听歌房区",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3142589385
+    },
+    {
+        "Name": "zm_lila_hacker_meow_cs2",
+        "CnName": "里拉喵",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "无",
+        "Steam": 3228474306
+    },
+    {
+        "Name": "zm_mansion_p",
+        "CnName": "喜爱福夜幕山庄",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3269711289
+    },
+    {
+        "Name": "zm_map_grass_cs2",
+        "CnName": "神器农场",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "2024-08-27 23:30:27",
+        "Steam": 3262926296
+    },
+    {
+        "Name": "zm_mediumzm",
+        "CnName": "[EZzm]⑨号实验室",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3283778158
+    },
+    {
+        "Name": "zm_micro_bootcamps",
+        "CnName": "迷你野战训练营",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3254679359
+    },
+    {
+        "Name": "zm_militia_night_funkin_v1c_p",
+        "CnName": "野战训练营",
+        "Difficulty": "简单",
+        "CooldownMinute": "6.0时",
+        "CooldownEnd": "无",
+        "Steam": 3256291071
+    },
+    {
+        "Name": "zm_minecraft_chunk",
+        "CnName": "我的世界-山谷",
+        "Difficulty": "普通",
+        "CooldownMinute": "3.3时",
+        "CooldownEnd": "2024-08-27 22:28:22",
+        "Steam": 3243458604
+    },
+    {
+        "Name": "zm_miniature_room_csgo",
+        "CnName": "世界被放大啦",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "2024-08-27 22:36:08",
+        "Steam": 3164786860
+    },
+    {
+        "Name": "zm_misty_village",
+        "CnName": "迷雾村庄",
+        "Difficulty": "简单",
+        "CooldownMinute": "90分",
+        "CooldownEnd": "无",
+        "Steam": 3241986715
+    },
+    {
+        "Name": "zm_mutation_prison_v0_3_p",
+        "CnName": "生化监狱",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3277728636
+    },
+    {
+        "Name": "zm_plumbing_charm",
+        "CnName": "管道的诱惑",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3246299826
+    },
+    {
+        "Name": "zm_quadruple_phalanx",
+        "CnName": "辛酸上班史",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3235825041
+    },
+    {
+        "Name": "zm_red_vs_blue_build_b3_p",
+        "CnName": "红蓝广告招募位",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3271001488
+    },
+    {
+        "Name": "zm_region13",
+        "CnName": "喜爱福13号地区",
+        "Difficulty": "简单",
+        "CooldownMinute": "6.0时",
+        "CooldownEnd": "2024-08-28 02:57:54",
+        "Steam": 3223020645
+    },
+    {
+        "Name": "zm_return_to_berlin_b3_p",
+        "CnName": "重返柏林",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3269596425
+    },
+    {
+        "Name": "zm_rotation_boundary",
+        "CnName": "旋转边界",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3250564320
+    },
+    {
+        "Name": "zm_siberia_v2_csgo_p",
+        "CnName": "西伯利亚",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3260457902
+    },
+    {
+        "Name": "zm_silent_village",
+        "CnName": "喜爱福寂静村",
+        "Difficulty": "简单",
+        "CooldownMinute": "6.0时",
+        "CooldownEnd": "2024-08-27 23:26:23",
+        "Steam": 3222984182
+    },
+    {
+        "Name": "zm_training_dust_v1_d",
+        "CnName": "灼热沙城攻防训练",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3268105919
+    },
+    {
+        "Name": "zm_tranquility_c1_d_p",
+        "CnName": "喜爱福名胜古迹",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3268150304
+    },
+    {
+        "Name": "zm_tube_gliding",
+        "CnName": "登上美丽理塘",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3245055431
+    },
+    {
+        "Name": "zm_underground_1st_stereet",
+        "CnName": "地底一号街",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3308310945
+    },
+    {
+        "Name": "zm_underground_area_1",
+        "CnName": "地底1号区",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3289000780
+    },
+    {
+        "Name": "zm_underground_shelter",
+        "CnName": "地底避难所",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3257565219
+    },
+    {
+        "Name": "zm_underground_warehouse",
+        "CnName": "地底仓库",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3262331091
+    },
+    {
+        "Name": "zm_vendetta_cs2",
+        "CnName": "冰雪山洞",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3189946391
+    },
+    {
+        "Name": "zm_vents_remake_m",
+        "CnName": "管道传奇2:重装上阵",
+        "Difficulty": "简单",
+        "CooldownMinute": "4.0时",
+        "CooldownEnd": "无",
+        "Steam": 3174849019
+    },
+    {
+        "Name": "zm_zed_school",
+        "CnName": "姜丝乐园学校",
+        "Difficulty": "简单",
+        "CooldownMinute": "0分",
+        "CooldownEnd": "无",
+        "Steam": 3312849284
+    },
+    {
+        "Name": "zm_zerbes_green_rain_beta2",
+        "CnName": "绿色水池",
+        "Difficulty": "简单",
+        "CooldownMinute": "3.0时",
+        "CooldownEnd": "无",
+        "Steam": 3178155240
+    }
+]

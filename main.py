@@ -1,6 +1,6 @@
 import get_map as gm
 import get_map_status_exg as gme
-import json_to_excel as j2e
+import data_to_file as d2f
 
 
 # ==========方法1==========
@@ -12,7 +12,9 @@ map_status_doc = gme.get_current_exg_map_status()  # 从ExG官网获取实时地
 map_status_json = gme.preprocess_data(map_status_doc)  # 预处理获取的数据（格式化，将数据转为易读的文本）
 
 # 当然还可以用以下函数将其保存为 excel 表格。创意工坊的超链接什么的都打好了，和官网显示内容完全一致。
-j2e.save_to_excel(map_status_json, 'ExG_实时地图状态列表')  # 将处理好的数据转存为excel（文件名后会自动补时间戳）
+d2f.json_to_excel(map_status_json, 'ExG_实时地图状态列表')  # 将处理好的数据转存为excel（文件名后会自动补时间戳）
+# 要存成 `.json` 文件方便调用可以用以下函数。（为方便阅读，格式化过了）
+d2f.json_to_file(map_status_json, 'ExG_CurrentCs2MapStatus')
 # ==========全自动 - 推荐==========
 
 
