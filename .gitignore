@@ -1,6 +1,6 @@
 # Ignore the txt and csv files used for the example
-#/output/
-#/input/
+/output/
+/input/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
